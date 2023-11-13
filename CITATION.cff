@@ -1,0 +1,21 @@
+message: "If you want to cite this article, please cite it as below."
+authors:
+- family-names: "Ung"
+  given-names: "Eric"
+  orcid: "https://orcid.org/0009-0008-6122-4557"
+- family-names: "Miraa"
+  given-names: "Chloe"
+title: "february"
+date-released: 2024-02-14
+url: "https://github.com/ericung/february"
+preferred-citation:
+  type: article
+  url: "https://github.com/ericung/february"
+  authors:
+  - family-names: "Ung"
+    given-names: "Eric"
+    orcid: "https://orcid.org/0009-0008-6122-4557"
+  - family-names: "Miraa"
+    given-names: "Chloe"
+  title: "february"
+  year: 2024
